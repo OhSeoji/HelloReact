@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>DEV BRANCH</Text>
+      <Text>DEV BRANCH123</Text>
     </View>
   );
 }
